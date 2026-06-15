@@ -38,6 +38,4 @@ model to predict customer satisfaction.
 ## Environment Setup
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## Files
-- logistic_regression_analysis.ipynb - Main analysis notebook
 - Invistico_Airline.csv - Dataset
